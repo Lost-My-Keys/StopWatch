@@ -1,0 +1,54 @@
+
+body {
+
+position: static;
+text-align: center;
+background-color: orange;
+font-family: Roboto, sans-serif;
+height:100%;
+
+}
+
+.wrapper {
+width: 40%;
+margin: 30px auto;
+color: rgb(150, 27, 27);
+text-align:center;
+}
+.Timer{
+    
+    font-family:'Roboto', sans-serif ;
+    color: rgb(32, 37, 37);
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  border: 3px;
+  border-color:rgb(31, 31, 31);
+  text-transform: uppercase;
+}
+
+#seconds, #tens, #minutes, #hours{
+  font-size:2em;
+}
+
+button, input[type="button"] { 
+    color:#4CAF50;
+    background-color: black;
+    font-size: 25px;
+    padding: 10px 40px;
+    border-radius: 45px;
+    border: 0px;
+    width: 25%;
+} 
+
+
+
+
+
+
+
+
+
